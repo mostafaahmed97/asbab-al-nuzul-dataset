@@ -122,4 +122,6 @@ pip install -r scripts/python/requirements.txt
 ```
 # Contributing
 
-If you find any issues, errors in the text, or mistakes in transcription, please feel free to open an issue or contact me. Contributions and corrections are highly appreciated!
+If you have any suggestions, find any issues, errors in the text, or mistakes in transcription, please feel free to open an issue, PR or contact me directly.
+
+Contributions and corrections are highly appreciated!
